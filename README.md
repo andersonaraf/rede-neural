@@ -1,7 +1,8 @@
 # rede-neural
-PROJECT 
-  Develop a neural network for testing and for study purposes  
 
-ABOUT  
+<h1>PROJECT</h1> 
+ - Develop a neural network for testing and for study purposes  
+
+<h1>ABOUT</h1>  
   - Develop a neural network with js (Possible to change language in the future); 
   - Apply Artificila Intelligence;
